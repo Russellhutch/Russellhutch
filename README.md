@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python, C#, Docker, Kubernetes, Linux, Unix, Azure 
 - 💞️ I’m looking to collaborate on all the things
 - 📫 How to reach me RHutch.Automation@gmail.com
-- 
 
 <!---
 Russellhutch/Russellhutch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
